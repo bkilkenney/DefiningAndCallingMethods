@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\DefiningAndCallingMethods\DefiningAndCallingMethods\bin\Debug\DefiningAndCallingMethods.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DefiningAndCallingMethods\DefiningAndCallingMethods\bin\Debug\DefiningAndCallingMethods.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DefiningAndCallingMethods\DefiningAndCallingMethods\bin\Debug\DefiningAndCallingMethods.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DefiningAndCallingMethods\DefiningAndCallingMethods\obj\Debug\DefiningAndCallingMethods.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DefiningAndCallingMethods\DefiningAndCallingMethods\obj\Debug\DefiningAndCallingMethods.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DefiningAndCallingMethods\DefiningAndCallingMethods\obj\Debug\DefiningAndCallingMethods.pdb
