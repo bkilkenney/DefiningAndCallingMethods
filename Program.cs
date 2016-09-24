@@ -33,21 +33,21 @@ namespace DefiningAndCallingMethods
 
         }
 
-        //Below is the method we called above******************************************************************************************************
+        //Below is the method we called above****************************************************************************************************************
+  
+                      private static void ReverseString(string message)  /*private means can only be accessed in this class
+                                                             static means this method belongs to the class as a whole, not a particular instance
+                                                             void means it doesn't return a value*/
+                      {
 
-        private static void ReverseString(string message)  /*private means can only be accessed in this class
-                                               static means this method belongs to the class as a whole, not a particular instance
-                                               void means it doesn't return a value*/
-        {
-            
-            char[] messageArray = message.ToCharArray(); //This instructor loves to convert strings to char arrays and reverse them
-            Array.Reverse(messageArray);
-            foreach (char item in messageArray)
-            {
-                Console.Write(item);
-                
-            }
+                          char[] messageArray = message.ToCharArray(); 
+                          Array.Reverse(messageArray);
+                          foreach (char item in messageArray)
+                          {
+                          Console.Write(item); //Write not writeline so results display horizontally                
+                          }
+                          Console.Write(" ");  //leaves space between each word  
+                      }                                                                                                                 
         }
-
     }
-}
+
